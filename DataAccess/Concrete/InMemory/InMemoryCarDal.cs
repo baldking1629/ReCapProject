@@ -13,7 +13,6 @@ namespace DataAccess.Concrete.InMemory
     public class InMemoryCarDal : ICarDal
     {
         List<Car> _cars;
-        //deneme
 
         public InMemoryCarDal()
         {
